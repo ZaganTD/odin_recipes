@@ -1,6 +1,5 @@
 * {
     text-align: center;
-    
 }
 
 html {
@@ -9,9 +8,21 @@ html {
 
 ul {
     list-style-position: inside;
+    list-style: none;
+}
+li {line-height: 40px;}
+
+
+img {
+    margin-bottom: 50px;
+    width: 500px;
+    height: auto;
+    margin-top: 50px;
 }
 
-
-.inline {
-    display: block
+.homepic {
+    width: 300px;
+    height: auto;
+    margin-bottom: 30px;
+    margin-top: 0px;
 }
